@@ -35,7 +35,7 @@ export function SiteHeader() {
               <span className="sr-only">Toggle theme</span>
             </Button>
             <Button variant="ghost" size="icon" asChild>
-              <Link href="https://github.com" target="_blank" rel="noreferrer">
+              <Link href="https://github.com/rockleona/toolbox" target="_blank" rel="noreferrer">
                 <Github className="h-5 w-5" />
                 <span className="sr-only">GitHub</span>
               </Link>
