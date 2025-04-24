@@ -30,7 +30,7 @@ const tools = [
     path: "/tools/color-picker",
     category: "Design",
     description: "Pick and convert colors.",
-    icon: "palette"
+    icon: "Palette"
   }
 ]
 
